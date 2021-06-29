@@ -1,0 +1,54 @@
+.card {
+    background-image: linear-gradient(to top left, lightblue, blue);
+    margin-top: 0;
+}
+header {
+    background-color: black;
+}
+
+header ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+header ul li {
+    display: inline-block;
+    padding: 10px;
+}
+
+header ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.slider{
+    padding: 10px;
+}
+
+.slider img {
+    width: 100%;
+}
+
+.image {
+    width: 200px;
+}
+
+.side-img {
+    float: left;
+    padding: 20px;
+}
+
+.p-text {
+    column-count: 4;
+    column-rule: 1px solid black;
+    text-align: justify;
+    padding-bottom: 30px;
+    padding-right: 10px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 15px;
+}
